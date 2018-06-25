@@ -1,3 +1,5 @@
+'use strict';
+
 var generateWizardsJS = function (amount) {
   var dataWizards = [];
 
